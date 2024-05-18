@@ -12,10 +12,9 @@ email: esteban.ramirez9296@alumnos.udg.mx
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
 github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
